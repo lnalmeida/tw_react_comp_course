@@ -1,0 +1,16 @@
+.textcounter {
+    display: flex;
+    flex-flow: column nowrap;
+    margin: 15 auto;
+}
+
+.textcounter span {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #808080;
+}
+.textcounter textarea {
+    border: 1px solid #C0C0C0;
+    border-radius: 5px;
+}
